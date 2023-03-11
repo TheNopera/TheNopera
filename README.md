@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a junior fullstack dev;<br>🤝 I’m looking for mentoring;<br>🌱 I’m currently learning react;<br>⚡ Fun fact: I like to think of the software engineer as sisyphus.
+🔭 Currently studying IOS development;<br>🤝 Alway searching for knowledge;<br>🌱 working at developer academy<br>⚡ Fun fact: I like to think of the software engineer as sisyphus.
 
 
 ## 🌐 Socials:
